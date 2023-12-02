@@ -3,6 +3,6 @@ Farm this 3 Socailfi Projects which is tokenless
 1. Lens Protocol
 https://hey.xyz/ 
 2. Friend.tech
-friend.tech
+https://www.friend.tech/
 3. Beoble
-beoble.io
+https://www.beoble.io/
